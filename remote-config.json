@@ -1,0 +1,63 @@
+{
+  "schemaVersion": 1,
+
+  "launcher": {
+    "version": "1.0.0",
+    "url": "",
+    "sha256": "",
+    "sizeBytes": 0,
+
+    "bootstrapper": {
+      "version": "1.0.0",
+      "url": "",
+      "sha256": "",
+      "sizeBytes": 0
+    }
+  },
+
+  "client": {
+    "latestVersion": "1.0.0",
+    "minecraftVersion": "1.21.4",
+    "fabricLoaderVersion": "0.19.3",
+    "channel": "Release",
+
+    "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.0.jar",
+
+    "sha256": "",
+    "sizeBytes": 6892832,
+
+    "launch": {
+      "fileName": "",
+      "arguments": "",
+      "workingDirectory": "{installPath}"
+    }
+  },
+
+  "maintenance": {
+    "enabled": false,
+    "title": "Технические работы",
+    "message": "Phaze временно недоступен. Скоро вернёмся."
+  },
+
+  "news": {
+    "title": "Phaze 1.0.0",
+    "date": "2026-08-19",
+
+    "changes": [
+      "Новый Phaze Launcher",
+      "Добавлена система аккаунтов",
+      "Автоматическая установка Minecraft и Fabric",
+      "Добавлена проверка и восстановление файлов",
+      "Исправлены ошибки запуска"
+    ]
+  },
+
+  "links": {
+    "discord": "",
+    "website": ""
+  },
+
+  "auth": {
+    "baseUrl": "https://phaze-auth.francegakk.workers.dev"
+  }
+}
