@@ -39,9 +39,15 @@
     "message": "Phaze временно недоступен. Скоро вернёмся."
   },
 
-  "news": {
-    "title": "Phaze 1.0.0",
-    "date": "2026-08-19",
+ "news": {
+  "title": "Phaze 1.0.1 — Test Update",
+  "date": "2026-08-19",
+  "changes": [
+    "Проверка удалённого changelog",
+    "Тест кнопки Что нового",
+    "Изменения подтягиваются прямо с GitHub"
+  ]
+}
 
     "changes": [
       "Новый Phaze Launcher",
