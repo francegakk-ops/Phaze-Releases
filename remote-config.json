@@ -6,7 +6,6 @@
     "url": "",
     "sha256": "",
     "sizeBytes": 0,
-
     "bootstrapper": {
       "version": "1.0.0",
       "url": "",
@@ -20,12 +19,9 @@
     "minecraftVersion": "1.21.4",
     "fabricLoaderVersion": "0.19.3",
     "channel": "Release",
-
     "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.0.jar",
-
     "sha256": "",
     "sizeBytes": 6892832,
-
     "launch": {
       "fileName": "",
       "arguments": "",
@@ -39,22 +35,13 @@
     "message": "Phaze временно недоступен. Скоро вернёмся."
   },
 
- "news": {
-  "title": "Phaze 1.0.1 — Test Update",
-  "date": "2026-08-19",
-  "changes": [
-    "Проверка удалённого changelog",
-    "Тест кнопки Что нового",
-    "Изменения подтягиваются прямо с GitHub"
-  ]
-}
-
+  "news": {
+    "title": "Phaze 1.0.1 — Test Update",
+    "date": "2026-08-19",
     "changes": [
-      "Новый Phaze Launcher",
-      "Добавлена система аккаунтов",
-      "Автоматическая установка Minecraft и Fabric",
-      "Добавлена проверка и восстановление файлов",
-      "Исправлены ошибки запуска"
+      "Проверка удалённого changelog",
+      "Тест кнопки Что нового",
+      "Изменения подтягиваются прямо с GitHub"
     ]
   },
 
