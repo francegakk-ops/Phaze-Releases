@@ -30,7 +30,7 @@
   },
 
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Технические работы",
     "message": "Phaze временно недоступен. Скоро вернёмся."
   },
@@ -54,4 +54,3 @@
     "baseUrl": "https://phaze-auth.francegakk.workers.dev"
   }
 }
-чч
