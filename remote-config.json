@@ -30,7 +30,7 @@
   },
 
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Технические работы",
     "message": "Phaze временно недоступен. Скоро вернёмся."
   },
