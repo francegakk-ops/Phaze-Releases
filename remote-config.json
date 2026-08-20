@@ -21,7 +21,7 @@
     "channel": "Release",
     "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.0.jar",
     "sha256": "",
-    "sizeBytes": 6892832,
+    "sizeBytes": 7900375,
     "launch": {
       "fileName": "",
       "arguments": "",
@@ -37,7 +37,7 @@
 
   "news": {
     "title": "Phaze 1.0.1 — Test Update",
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "changes": [
       "Проверка удалённого changelog",
       "Иван идет нахуй",
