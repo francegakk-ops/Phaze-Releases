@@ -15,13 +15,13 @@
   },
 
   "client": {
-    "latestVersion": "1.0.0",
+    "latestVersion": "1.0.1",
     "minecraftVersion": "1.21.4",
     "fabricLoaderVersion": "0.19.3",
     "channel": "Release",
-    "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.0.jar",
+    "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.1.jar",
     "sha256": "",
-    "sizeBytes": 7900375,
+    "sizeBytes": 13510249,
     "launch": {
       "fileName": "",
       "arguments": "",
@@ -36,12 +36,15 @@
   },
 
   "news": {
-    "title": "Phaze 1.0.1 — Test Update",
-    "date": "2026-08-20",
+    "title": "Phaze 1.0.1",
+    "date": "2026-08-21",
     "changes": [
-      "Проверка удалённого changelog",
-      "Иван идет нахуй",
-      "Александр идет нахуй"
+      "Обновлён интерфейс главного меню",
+      "Улучшен Alt Manager",
+      "Исправлена работа текста и шрифтов",
+      "Улучшена синхронизация музыки и текста песен",
+      "Исправлена работа обложек треков",
+      "Различные исправления и улучшения"
     ]
   },
 
