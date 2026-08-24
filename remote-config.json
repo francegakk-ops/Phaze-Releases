@@ -15,13 +15,13 @@
   },
 
   "client": {
-    "latestVersion": "1.0.1",
+    "latestVersion": "1.0.2",
     "minecraftVersion": "1.21.4",
     "fabricLoaderVersion": "0.19.3",
     "channel": "Release",
-    "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.1.jar",
+    "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.2/phaze-client-1.0.2.jar",
     "sha256": "",
-    "sizeBytes": 13510249,
+    "sizeBytes": 15567267,
     "launch": {
       "fileName": "",
       "arguments": "",
@@ -36,14 +36,17 @@
   },
 
   "news": {
-    "title": "Phaze 1.0.1",
-    "date": "2026-08-21",
+    "title": "Phaze 1.0.2",
+    "date": "2026-08-24",
     "changes": [
-      "Обновлён интерфейс главного меню",
-      "Улучшен Alt Manager",
-      "Исправлена работа текста и шрифтов",
-      "Улучшена синхронизация музыки и текста песен",
-      "Исправлена работа обложек треков",
+      "Добавлен отдельный Target ESP",
+      "Добавлены новые пресеты Target ESP",
+      "Добавлен редактор ESP",
+      "Добавлен редактор Target ESP",
+      "Добавлен редактор Jump Circles",
+      "Добавлены Jump Circles с эффектом преломления",
+      "Улучшены визуальные эффекты и анимации",
+      "Проведена оптимизация рендера",
       "Различные исправления и улучшения"
     ]
   },
