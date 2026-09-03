@@ -21,7 +21,7 @@
     "channel": "Release",
     "url": "https://github.com/francegakk-ops/Phaze-Releases/releases/download/v1.0.0/phaze-client-1.0.2.jar",
     "sha256": "",
-    "sizeBytes": 15567267,
+    "sizeBytes": 16537390,
     "launch": {
       "fileName": "",
       "arguments": "",
@@ -43,7 +43,7 @@
       "Добавлены новые пресеты Target ESP",
       "Добавлен редактор ESP",
       "Добавлен редактор Target ESP",
-      "Добавлен редактор Jump Circles",
+      "Добавлен редактор я хуесос Jump Circles",
       "Добавлены новые визуальные эффекты",
       "Добавлено искажение пространства для Jump Circles",
       "Улучшена плавность визуальных эффектов",
